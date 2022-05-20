@@ -1,0 +1,1 @@
+new_host = host(host_id, x_position, y_position, master, range_ratio)
