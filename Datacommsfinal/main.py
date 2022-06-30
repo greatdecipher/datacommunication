@@ -22,7 +22,7 @@ def plot_host(host):
 	plt.plot(px, py, 'bo')
 	plt.xlabel('X')
 	plt.ylabel('Y')
-	plt.title("Hostesses")#Muda título do gráfico
+	plt.title("Hostesses")
 	plt.show()
 	#plt.savefig('Plot_host.png')
 
