@@ -1,2 +1,2 @@
-# Wireless networks are computer networks that are not linked by any kind of cable. The use of a wireless network allows businesses to avoid the costly process of installing cables in buildings or connecting different equipment locations. Wireless systems are built on radio waves, which are implemented at the physical level of network structure.
+#WIRELESS NETWORKS
 ![image](https://user-images.githubusercontent.com/105887696/169472561-5348159e-1739-4ff1-b861-d86607c88cd6.png)
